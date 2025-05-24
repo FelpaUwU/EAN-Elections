@@ -177,7 +177,7 @@ class _LoginPageState extends State<LoginPage> {
             ),
             const SizedBox(height: 20),
             const Text(
-              'Voting App',
+              'Voting App EAN',
               style: TextStyle(
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
